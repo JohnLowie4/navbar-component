@@ -6,6 +6,7 @@ body {
     "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
     sans-serif;
   min-height: 100vh;
+  background: linear-gradient(142deg, #f9fafb, #d2d6db);
 }
 
 * {
