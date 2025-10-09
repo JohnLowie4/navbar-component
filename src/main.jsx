@@ -5,6 +5,6 @@ import PageTemplate from './PageTemplate.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <PageTemplate />
+    <PageTemplate></PageTemplate>
   </StrictMode>,
 )
